@@ -30,12 +30,6 @@ This project was developed using the following technologies:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Features
-
-- List plants from a API (fake API)
-- Store plants to remember to water them (with push notifications)
-- Store and edit user name and photo
-- Delete or Update a scheduled plant
 
 ## 🚀 Getting started
 
@@ -56,15 +50,14 @@ $ yarn start
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during June 20-26, 2021.
 
 ## 🔖 Layout
 
 You can view the project layout through the links below:
 
-- [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
+- [Layout](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
