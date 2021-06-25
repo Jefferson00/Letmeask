@@ -1,46 +1,78 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Letmeask" title="Letmeask" src=".github/logo.svg" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=32B768" alt="License">
+  
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-brightgreen">    
 
-### `yarn start`
+  <a href="https://www.linkedin.com/in/jefferson-c-silva-aa1b7b1a9/">
+    <img alt="Made by Jefferson" src="https://img.shields.io/badge/made%20by-Jefferson-blue">
+  </a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+  <img alt="Letmeask" src=".github/letmeask-preview.png">
+</p>
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧪 Technologies
 
-### `yarn build`
+This project was developed using the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://pt-br.reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 💻 Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- List plants from a API (fake API)
+- Store plants to remember to water them (with push notifications)
+- Store and edit user name and photo
+- Delete or Update a scheduled plant
 
-### `yarn eject`
+## 🚀 Getting started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Clone the project and access the folder
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+$ git clone https://github.com/Jefferson00/PlantManager.git && cd plantmanager
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Start the project
+$ yarn start
+```
 
-## Learn More
+## 💻 Project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+App to always remember to water your plants 🌱
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+
+## 🔖 Layout
+
+You can view the project layout through the links below:
+
+- [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
+
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+
+---
+
+Made with ♥ by Jefferson C Silva :wave: [Get in touch!](https://www.linkedin.com/in/jefferson-c-silva)
